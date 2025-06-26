@@ -1,0 +1,13 @@
+
+resource_group_name = "business-landing-rg"
+location = "East US"
+app_name = "business-landing-app"
+app_service_plan_sku = "B1"
+container_registry_server = "ghcr.io"
+container_image_tag = "latest"
+
+environment_variables = {
+  NODE_ENV = "production"
+  VITE_SENTRY_DSN = ""
+  VITE_OTLP_ENDPOINT = ""
+}

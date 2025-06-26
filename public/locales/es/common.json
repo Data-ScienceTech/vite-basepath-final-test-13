@@ -1,0 +1,96 @@
+
+{
+  "nav": {
+    "home": "Inicio",
+    "features": "Características",
+    "testimonials": "Testimonios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "headline": "Transforma Tu Negocio con Nuestras Soluciones Innovadoras",
+    "subheadline": "Optimiza operaciones, aumenta productividad y impulsa el crecimiento con nuestra plataforma de vanguardia diseñada para empresas modernas.",
+    "cta": "Comenzar Hoy",
+    "cta_secondary": "Saber Más"
+  },
+  "features": {
+    "title": "Por Qué Elegir Nuestra Plataforma",
+    "subtitle": "Todo lo que necesitas para escalar tu negocio eficientemente",
+    "feature1": {
+      "title": "Ultrarrápido",
+      "description": "Rendimiento optimizado asegura que tus operaciones funcionen sin problemas a cualquier escala."
+    },
+    "feature2": {
+      "title": "Seguro y Confiable",
+      "description": "Seguridad de nivel empresarial con garantía de tiempo de actividad del 99.9% para tu tranquilidad."
+    },
+    "feature3": {
+      "title": "Integración Fácil",
+      "description": "Conecta perfectamente con tus herramientas y flujos de trabajo existentes en minutos."
+    }
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "testimonial1": {
+      "text": "Esta plataforma ha transformado cómo operamos. Las ganancias de eficiencia son notables y el equipo de soporte es excepcional.",
+      "author": "Sarah Johnson",
+      "position": "CEO, TechCorp"
+    },
+    "testimonial2": {
+      "text": "La implementación fue perfecta y el ROI fue evidente en el primer mes. Altamente recomendado para cualquier negocio en crecimiento.",
+      "author": "Michael Chen",
+      "position": "Director de Operaciones, InnovateNow"
+    },
+    "testimonial3": {
+      "text": "La mejor inversión que hemos hecho para nuestra empresa. Es intuitivo, poderoso y tiene excelente soporte al cliente.",
+      "author": "Emily Rodriguez",
+      "position": "Fundadora, StartupSuccess"
+    }
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "subtitle": "¿Listo para transformar tu negocio? Contáctanos hoy.",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Dirección de Email",
+      "phone": "Número de Teléfono",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje",
+      "success": "¡Gracias! Te contactaremos pronto.",
+      "error": "Por favor completa todos los campos requeridos."
+    }
+  },
+  "about": {
+    "title": "Acerca de Nosotros",
+    "intro": "Somos un equipo de profesionales apasionados dedicados a transformar empresas a través de soluciones innovadoras.",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Empoderar empresas de todos los tamaños con tecnología de vanguardia que optimiza operaciones, aumenta productividad e impulsa el crecimiento sostenible en un panorama digital en constante evolución."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "innovation": "Innovación: Constantemente superamos límites para entregar soluciones revolucionarias",
+      "reliability": "Confiabilidad: Nuestras plataformas están construidas para estabilidad y rendimiento consistente",
+      "customer_success": "Éxito del Cliente: Tu éxito es nuestro éxito",
+      "transparency": "Transparencia: Creemos en comunicación honesta y abierta"
+    },
+    "why_choose": {
+      "title": "Por Qué Elegirnos",
+      "description": "Con años de experiencia y un historial comprobado, entendemos los desafíos que enfrentan las empresas modernas. Nuestras soluciones están diseñadas para ser intuitivas, escalables y adaptadas a tus necesidades específicas."
+    }
+  },
+  "footer": {
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "rights": "Todos los derechos reservados."
+  },
+  "cookie": {
+    "title": "Preferencias de Cookies",
+    "description": "Usamos cookies para mejorar tu experiencia. Puedes gestionar tus preferencias abajo.",
+    "essential": "Esenciales",
+    "analytics": "Analíticas",
+    "marketing": "Marketing",
+    "accept_all": "Aceptar Todas",
+    "accept_selected": "Aceptar Seleccionadas",
+    "reject_all": "Rechazar Todas"
+  }
+}

@@ -1,0 +1,96 @@
+
+{
+  "nav": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "testimonials": "Témoignages",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "Transformez Votre Entreprise avec Nos Solutions Innovantes",
+    "subheadline": "Optimisez les opérations, boostez la productivité et stimulez la croissance avec notre plateforme de pointe conçue pour les entreprises modernes.",
+    "cta": "Commencer Aujourd'hui",
+    "cta_secondary": "En Savoir Plus"
+  },
+  "features": {
+    "title": "Pourquoi Choisir Notre Plateforme",
+    "subtitle": "Tout ce dont vous avez besoin pour faire évoluer votre entreprise efficacement",
+    "feature1": {
+      "title": "Ultra Rapide",
+      "description": "Performance optimisée assure que vos opérations fonctionnent sans problème à toute échelle."
+    },
+    "feature2": {
+      "title": "Sécurisé et Fiable",
+      "description": "Sécurité de niveau entreprise avec garantie de temps de fonctionnement de 99,9% pour votre tranquillité d'esprit."
+    },
+    "feature3": {
+      "title": "Intégration Facile",
+      "description": "Connectez-vous parfaitement avec vos outils et flux de travail existants en quelques minutes."
+    }
+  },
+  "testimonials": {
+    "title": "Ce Que Disent Nos Clients",
+    "testimonial1": {
+      "text": "Cette plateforme a transformé notre façon d'opérer. Les gains d'efficacité sont remarquables et l'équipe de support est exceptionnelle.",
+      "author": "Sarah Johnson",
+      "position": "PDG, TechCorp"
+    },
+    "testimonial2": {
+      "text": "L'implémentation a été parfaite et le ROI était évident dès le premier mois. Hautement recommandé pour toute entreprise en croissance.",
+      "author": "Michael Chen",
+      "position": "Directeur des Opérations, InnovateNow"
+    },
+    "testimonial3": {
+      "text": "Le meilleur investissement que nous ayons fait pour notre entreprise. C'est intuitif, puissant et a un excellent support client.",
+      "author": "Emily Rodriguez",
+      "position": "Fondatrice, StartupSuccess"
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Prêt à transformer votre entreprise ? Contactez-nous aujourd'hui.",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse Email",
+      "phone": "Numéro de Téléphone",
+      "message": "Message",
+      "submit": "Envoyer le Message",
+      "success": "Merci ! Nous vous recontacterons bientôt.",
+      "error": "Veuillez remplir tous les champs requis."
+    }
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "intro": "Nous sommes une équipe de professionnels passionnés dédiés à transformer les entreprises grâce à des solutions innovantes.",
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Autonomiser les entreprises de toutes tailles avec une technologie de pointe qui rationalise les opérations, stimule la productivité et favorise une croissance durable dans un paysage numérique en constante évolution."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "innovation": "Innovation : Nous repoussons constamment les limites pour livrer des solutions révolutionnaires",
+      "reliability": "Fiabilité : Nos plateformes sont construites pour la stabilité et une performance constante",
+      "customer_success": "Succès Client : Votre succès est notre succès",
+      "transparency": "Transparence : Nous croyons en une communication honnête et ouverte"
+    },
+    "why_choose": {
+      "title": "Pourquoi Nous Choisir",
+      "description": "Avec des années d'expérience et un historique prouvé, nous comprenons les défis auxquels font face les entreprises modernes. Nos solutions sont conçues pour être intuitives, évolutives et adaptées à vos besoins spécifiques."
+    }
+  },
+  "footer": {
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions de Service",
+    "rights": "Tous droits réservés."
+  },
+  "cookie": {
+    "title": "Préférences des Cookies",
+    "description": "Nous utilisons des cookies pour améliorer votre expérience. Vous pouvez gérer vos préférences ci-dessous.",
+    "essential": "Essentiels",
+    "analytics": "Analytiques",
+    "marketing": "Marketing",
+    "accept_all": "Accepter Tout",
+    "accept_selected": "Accepter Sélectionnés",
+    "reject_all": "Tout Rejeter"
+  }
+}

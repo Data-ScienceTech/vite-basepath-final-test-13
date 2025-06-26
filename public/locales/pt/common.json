@@ -1,0 +1,96 @@
+
+{
+  "nav": {
+    "home": "Início",
+    "features": "Recursos",
+    "testimonials": "Depoimentos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "headline": "Transforme Seu Negócio com Nossas Soluções Inovadoras",
+    "subheadline": "Otimize operações, aumente produtividade e impulsione o crescimento com nossa plataforma de ponta projetada para empresas modernas.",
+    "cta": "Comece Hoje",
+    "cta_secondary": "Saiba Mais"
+  },
+  "features": {
+    "title": "Por Que Escolher Nossa Plataforma",
+    "subtitle": "Tudo que você precisa para escalar seu negócio eficientemente",
+    "feature1": {
+      "title": "Ultra Rápido",
+      "description": "Desempenho otimizado garante que suas operações funcionem perfeitamente em qualquer escala."
+    },
+    "feature2": {
+      "title": "Seguro e Confiável",
+      "description": "Segurança de nível empresarial com garantia de 99,9% de tempo de atividade para sua tranquilidade."
+    },
+    "feature3": {
+      "title": "Integração Fácil",
+      "description": "Conecte-se perfeitamente com suas ferramentas e fluxos de trabalho existentes em minutos."
+    }
+  },
+  "testimonials": {
+    "title": "O Que Nossos Clientes Dizem",
+    "testimonial1": {
+      "text": "Esta plataforma transformou como operamos. Os ganhos de eficiência são notáveis e a equipe de suporte é excepcional.",
+      "author": "Sarah Johnson",
+      "position": "CEO, TechCorp"
+    },
+    "testimonial2": {
+      "text": "A implementação foi perfeita e o ROI foi evidente no primeiro mês. Altamente recomendado para qualquer negócio em crescimento.",
+      "author": "Michael Chen",
+      "position": "Diretor de Operações, InnovateNow"
+    },
+    "testimonial3": {
+      "text": "O melhor investimento que fizemos para nossa empresa. É intuitivo, poderoso e tem excelente suporte ao cliente.",
+      "author": "Emily Rodriguez",
+      "position": "Fundadora, StartupSuccess"
+    }
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Pronto para transformar seu negócio? Entre em contato conosco hoje.",
+    "form": {
+      "name": "Nome Completo",
+      "email": "Endereço de Email",
+      "phone": "Número de Telefone",
+      "message": "Mensagem",
+      "submit": "Enviar Mensagem",
+      "success": "Obrigado! Entraremos em contato em breve.",
+      "error": "Por favor, preencha todos os campos obrigatórios."
+    }
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "intro": "Somos uma equipe de profissionais apaixonados dedicados a transformar negócios através de soluções inovadoras.",
+    "mission": {
+      "title": "Nossa Missão",
+      "description": "Capacitar empresas de todos os tamanhos com tecnologia de ponta que otimiza operações, aumenta produtividade e impulsiona crescimento sustentável em um cenário digital em constante evolução."
+    },
+    "values": {
+      "title": "Nossos Valores",
+      "innovation": "Inovação: Constantemente ultrapassamos limites para entregar soluções revolucionárias",
+      "reliability": "Confiabilidade: Nossas plataformas são construídas para estabilidade e performance consistente",
+      "customer_success": "Sucesso do Cliente: Seu sucesso é nosso sucesso",
+      "transparency": "Transparência: Acreditamos em comunicação honesta e aberta"
+    },
+    "why_choose": {
+      "title": "Por Que Nos Escolher",
+      "description": "Com anos de experiência e um histórico comprovado, entendemos os desafios que empresas modernas enfrentam. Nossas soluções são projetadas para serem intuitivas, escaláveis e personalizadas para suas necessidades específicas."
+    }
+  },
+  "footer": {
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "rights": "Todos os direitos reservados."
+  },
+  "cookie": {
+    "title": "Preferências de Cookies",
+    "description": "Usamos cookies para melhorar sua experiência. Você pode gerenciar suas preferências abaixo.",
+    "essential": "Essenciais",
+    "analytics": "Análise",
+    "marketing": "Marketing",
+    "accept_all": "Aceitar Todos",
+    "accept_selected": "Aceitar Selecionados",
+    "reject_all": "Rejeitar Todos"
+  }
+}

@@ -1,0 +1,96 @@
+
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "Transform Your Business with Our Innovative Solutions",
+    "subheadline": "Streamline operations, boost productivity, and drive growth with our cutting-edge platform designed for modern businesses.",
+    "cta": "Get Started Today",
+    "cta_secondary": "Learn More"
+  },
+  "features": {
+    "title": "Why Choose Our Platform",
+    "subtitle": "Everything you need to scale your business efficiently",
+    "feature1": {
+      "title": "Lightning Fast",
+      "description": "Optimized performance ensures your operations run smoothly at any scale."
+    },
+    "feature2": {
+      "title": "Secure & Reliable",
+      "description": "Enterprise-grade security with 99.9% uptime guarantee for peace of mind."
+    },
+    "feature3": {
+      "title": "Easy Integration",
+      "description": "Seamlessly connect with your existing tools and workflows in minutes."
+    }
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "testimonial1": {
+      "text": "This platform has transformed how we operate. The efficiency gains are remarkable and the support team is outstanding.",
+      "author": "Sarah Johnson",
+      "position": "CEO, TechCorp"
+    },
+    "testimonial2": {
+      "text": "Implementation was seamless and the ROI was evident within the first month. Highly recommended for any growing business.",
+      "author": "Michael Chen",
+      "position": "Operations Director, InnovateNow"
+    },
+    "testimonial3": {
+      "text": "The best investment we've made for our company. It's intuitive, powerful, and has excellent customer support.",
+      "author": "Emily Rodriguez",
+      "position": "Founder, StartupSuccess"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Ready to transform your business? Contact us today.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",  
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Thank you! We'll get back to you soon.",
+      "error": "Please fill in all required fields."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "intro": "We are a team of passionate professionals dedicated to transforming businesses through innovative solutions.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower businesses of all sizes with cutting-edge technology that streamlines operations, boosts productivity, and drives sustainable growth in an ever-evolving digital landscape."
+    },
+    "values": {
+      "title": "Our Values",
+      "innovation": "Innovation: We constantly push boundaries to deliver breakthrough solutions",
+      "reliability": "Reliability: Our platforms are built for stability and consistent performance",
+      "customer_success": "Customer Success: Your success is our success",
+      "transparency": "Transparency: We believe in honest, open communication"
+    },
+    "why_choose": {
+      "title": "Why Choose Us",
+      "description": "With years of experience and a proven track record, we understand the challenges modern businesses face. Our solutions are designed to be intuitive, scalable, and tailored to your specific needs."
+    }
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  },
+  "cookie": {
+    "title": "Cookie Preferences",
+    "description": "We use cookies to enhance your experience. You can manage your preferences below.",
+    "essential": "Essential",
+    "analytics": "Analytics",
+    "marketing": "Marketing",
+    "accept_all": "Accept All",
+    "accept_selected": "Accept Selected",
+    "reject_all": "Reject All"
+  }
+}
